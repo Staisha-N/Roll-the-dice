@@ -1,4 +1,4 @@
-# Roll-the-dice
+# Roll the dice
 
 Jeu de dés (Roll the dice)
 
