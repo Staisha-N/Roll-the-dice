@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Jeu_de_des_S_Neville/1.0.0": {
+        "runtime": {
+          "Jeu_de_des_S_Neville.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jeu_de_des_S_Neville/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
